@@ -1,0 +1,3 @@
+itemmm;100.00;Sports;seth;file:/C:/Users/Ali/Desktop/ed3f6431-0fa9-4041-a925-780cfe4d8aa8.jpeg;New;100.00;None;1767911833521;false
+aa;155.00;Fashion;seth;file:/C:/Users/Ali/Desktop/15.PNG;New;155.00;None;1767912973201;false
+ssssdsds;1500.00;Collectibles;admi;file:/C:/Users/Ali/Desktop/added%20stuff/16.PNG;New;3000.00;seth;1767916344542;false
