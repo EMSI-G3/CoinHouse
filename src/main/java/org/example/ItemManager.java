@@ -143,6 +143,7 @@ public class ItemManager {
     }
 
     // Utilities
+    //pushing
     public static void deleteItem(Item item) { activeItems.removeIf(i -> i == item); saveAllItems(); }
     public static List<Item> getAllItems() { return new ArrayList<>(activeItems); }
     public static List<Item> searchItems(String q) { return activeItems.stream().filter(i -> i.name.toLowerCase().contains(q.toLowerCase())).collect(Collectors.toList()); }
